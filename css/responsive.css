@@ -6,9 +6,9 @@
     position: absolute;
     top: 82px;
     right: 4%auto;
-    width: auto;  
+    width: auto;
   }
-  #social {
-    position: inline-block;
+  #social a {
+    display: inline-block;
   }
 }
